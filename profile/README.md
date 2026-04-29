@@ -30,7 +30,7 @@ The central hub for the Moss ecosystem. Built for speed and responsiveness, it s
 We utilize a diverse stack to achieve our performance and cross-platform goals:
 * **Mobile & Cross-Platform:** Flutter, Dart
 * **Systems & Audio Processing:** Rust
-* **Web Frontend:** Vite, HTML/CSS/JS
+* **Web Frontend:** React, Vite, SWR, React Router v7, Zustand
 
 ---
 
