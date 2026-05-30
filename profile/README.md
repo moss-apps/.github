@@ -14,7 +14,7 @@ Our ecosystem spans from audiophile-grade media playback to secure digital stora
 
 ### Featured Projects
 
-#### Flick Player
+#### Flick
 A high-fidelity music player for Android engineered for audio enthusiasts. Flick bypasses the standard Android audio stack, utilizing a custom-built, Rust-based UAC 2.0 implementation to deliver bit-perfect audio directly to external USB DACs and amplifiers. Features include gapless playback, automated local library scanning, and a 10-band equalizer.
 
 #### Latch
