@@ -17,7 +17,7 @@ Our ecosystem spans from audiophile-grade media playback to secure digital stora
 #### Flick Player
 A high-fidelity music player for Android engineered for audio enthusiasts. Flick bypasses the standard Android audio stack, utilizing a custom-built, Rust-based UAC 2.0 implementation to deliver bit-perfect audio directly to external USB DACs and amplifiers. Features include gapless playback, automated local library scanning, and a 10-band equalizer.
 
-#### Locker
+#### Latch
 A secure, zero-compromise media vault. Locker provides a simple, intuitive interface to encrypt and isolate your personal images, videos, and documents behind a password-protected gateway, ensuring your private media remains strictly confidential.
 
 #### Moss Web
