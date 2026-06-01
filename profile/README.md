@@ -15,10 +15,14 @@ Our ecosystem spans from audiophile-grade media playback to secure digital stora
 ### Featured Projects
 
 #### Flick
-A high-fidelity music player for Android engineered for audio enthusiasts. Flick bypasses the standard Android audio stack, utilizing a custom-built, Rust-based UAC 2.0 implementation to deliver bit-perfect audio directly to external USB DACs and amplifiers. Features include gapless playback, automated local library scanning, and a 10-band equalizer.
+A high-fidelity music player for Android engineered for audio enthusiasts. Flick bypasses the standard Android audio stack, utilizing a custom-built, Rust-based UAC 2.0 implementation to deliver bit-perfect audio directly to external USB DACs and amplifiers. Features include gapless playback, automated local library scanning, and a 31-band equalizer.
+
+Flick is currently available as an **Open Beta** on the Play Store: [Download Flick Beta](https://play.google.com/store/apps/details?id=com.mossapps.flick)
 
 #### Latch
-A secure, zero-compromise media vault. Locker provides a simple, intuitive interface to encrypt and isolate your personal images, videos, and documents behind a password-protected gateway, ensuring your private media remains strictly confidential.
+A secure, zero-compromise media vault. Latch provides a simple, intuitive interface to encrypt and isolate your personal images, videos, and documents behind a password-protected gateway, ensuring your private media remains strictly confidential.
+
+Latch is currently in **Closed Beta** on the Play Store. For access, email **moss_apps@proton.me**.
 
 #### Moss Web
 The central hub for the Moss ecosystem. Built for speed and responsiveness, it serves as the landing page and informational center for all our applications.
